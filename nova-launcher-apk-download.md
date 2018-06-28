@@ -44,7 +44,16 @@ Size: 8.4 MB<br />
 </center>
   <br>
   <a rel="nofollow" target="_blank" href="http://novalauncher.com/apk/NovaLauncher_3.3.apk">Download: Nova Classic (v3.3)</a><br>
-  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <h2>Nova Launcher How to Install?</h2>
 <ul><li>You have to go to the settings>security>allow download from unknown sources.</li>
